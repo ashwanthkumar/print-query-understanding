@@ -1,0 +1,271 @@
+{
+	"urlset": {
+		"url": [
+			{
+				"loc": "https://queryunderstanding.com/entity-recognition-763cae840a20",
+				"lastmod": "2017-08-30",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/contextual-query-understanding-65c78d792dd8",
+				"lastmod": "2017-10-30",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/session-context-4af0a355c94a",
+				"lastmod": "2017-10-24",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/search-results-clustering-b2fa64c6c809",
+				"lastmod": "2018-05-01",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/query-rewriting-an-overview-d7916eb94b83",
+				"lastmod": "2017-03-13",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/query-expansion-2d68d47cf9c8",
+				"lastmod": "2017-04-05",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/query-segmentation-2cf860ade503",
+				"lastmod": "2017-05-16",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/autocomplete-and-user-experience-421df6ab3000",
+				"lastmod": "2017-09-12",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/autocomplete-69ed81bba245",
+				"lastmod": "2017-09-01",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/personalization-3ed715e05ef",
+				"lastmod": "2017-11-28",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/search-result-snippets-e8c447950219",
+				"lastmod": "2018-04-17",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/understanding",
+				"lastmod": "2016-10-28",
+				"changefreq": "monthly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/query-understanding",
+				"lastmod": "2018-06-14",
+				"changefreq": "weekly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/information-retrieval",
+				"lastmod": "2018-06-14",
+				"changefreq": "weekly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/introduction-c98740502103",
+				"lastmod": "2017-11-24",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/query-scoping-ed61b5ec8753",
+				"lastmod": "2017-08-30",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/character-filtering-76ede1cf1a97",
+				"lastmod": "2016-12-17",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/machine-learning",
+				"lastmod": "2017-03-28",
+				"changefreq": "monthly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/query-relaxation-342bc37ad425",
+				"lastmod": "2017-04-28",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/faceted-search-7d053cc4fada",
+				"lastmod": "2018-02-21",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/search-engine-marketing",
+				"lastmod": "2018-05-29",
+				"changefreq": "monthly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/query-understanding-and-voice-interfaces-6cd60d063fca",
+				"lastmod": "2018-06-14",
+				"changefreq": "daily",
+				"priority": "0.7"
+			},
+			{
+				"loc": "https://queryunderstanding.com/query-understanding-and-chatbots-5fa0c154f",
+				"lastmod": "2018-06-14",
+				"changefreq": "daily",
+				"priority": "0.7"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/language",
+				"lastmod": "2016-12-17",
+				"changefreq": "monthly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/language-identification-c1d2a072eda",
+				"lastmod": "2016-11-20",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/relevance-feedback-c6999529b92c",
+				"lastmod": "2018-01-24",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/seasonality-5eef79d8bf1c",
+				"lastmod": "2017-11-06",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/search-results-presentation-7d6c6c384ec1",
+				"lastmod": "2018-03-12",
+				"changefreq": "monthly",
+				"priority": "0.7"
+			},
+			{
+				"loc": "https://queryunderstanding.com/search-as-a-conversation-bafa7cd0c9a5",
+				"lastmod": "2017-12-13",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/clarification-dialogues-69420432f451",
+				"lastmod": "2018-01-03",
+				"changefreq": "monthly",
+				"priority": "0.7"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/data-science",
+				"lastmod": "2017-04-28",
+				"changefreq": "monthly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/stemming-and-lemmatization-6c086742fe45",
+				"lastmod": "2017-02-16",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/taxonomies-and-ontologies-8e4812a79cb2",
+				"lastmod": "2017-08-30",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/geographical-context-77ce4c773dc7",
+				"lastmod": "2017-10-30",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/question-answering-94984185c203",
+				"lastmod": "2018-05-29",
+				"changefreq": "daily",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/typography",
+				"lastmod": "2016-12-17",
+				"changefreq": "monthly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tokenization-c8cdd6aef7ff",
+				"lastmod": "2017-01-16",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/engineering",
+				"lastmod": "2016-06-21",
+				"changefreq": "monthly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/search",
+				"lastmod": "2018-06-14",
+				"changefreq": "weekly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/search-engines",
+				"lastmod": "2018-06-14",
+				"changefreq": "weekly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/query",
+				"lastmod": "2018-06-14",
+				"changefreq": "weekly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/tagged/manifesto",
+				"lastmod": "2016-06-21",
+				"changefreq": "monthly",
+				"priority": "0.3"
+			},
+			{
+				"loc": "https://queryunderstanding.com/query-understanding-a-manifesto-367dc0be6745",
+				"lastmod": "2016-11-23",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			},
+			{
+				"loc": "https://queryunderstanding.com/spelling-correction-471f71b19880",
+				"lastmod": "2017-02-06",
+				"changefreq": "monthly",
+				"priority": "1.0"
+			}
+		],
+		"_xmlns": "http://www.sitemaps.org/schemas/sitemap/0.9"
+	}
+}
